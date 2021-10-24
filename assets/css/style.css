@@ -119,6 +119,7 @@ img {
 
 .sobre-info {
   display: flex;
+  align-items: center;
 }
 
 .sobre h2 {
